@@ -1,7 +1,21 @@
 <Configuration>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="74E0F295-C9B8-4CF0-AF1E-4F35A251C5E2/f:readme.txt" caret="555" fromTop="11" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:Service1.svc.cs" caret="608" fromTop="18" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:IService1.cs" caret="0" fromTop="0" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:IMailService.cs" caret="582" fromTop="18" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:MailService.svc.cs" caret="1071" fromTop="25" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:Web.config" caret="534" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:Service1.svc.cs" caret="665" fromTop="18" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:IMailService.cs" caret="381" fromTop="11" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:MailService.svc.cs" caret="2067" fromTop="60" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:MailService.svc.cs" caret="71" fromTop="11" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:MailService.svc.cs" caret="0" fromTop="0" />
+      <File id="9A284452-0B4E-47ED-8612-38463052F338/f:IMailService.cs" caret="575" fromTop="17" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +34,21 @@
       <setting name="SolutionAnalysisEnabled">False</setting>
     </boolean>
   </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="IMailingService`0" priority="26" />
+      <Item value="string" priority="127" />
+      <Item value="if" priority="31" />
+      <Item value="response" priority="63" />
+      <Item value="throw" priority="31" />
+      <Item value="public" priority="31" />
+      <Item value="bool" priority="31" />
+      <Item value="return" priority="63" />
+      <Item value="false" priority="31" />
+      <Item value="true" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RestSharp.IRestResponse">
+      <Item value="ErrorException" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>

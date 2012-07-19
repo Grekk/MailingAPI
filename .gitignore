@@ -6,3 +6,4 @@ _ReSharper.MailAPI
 # mstest test results
 TestResults
 /src/MailAPI/_ReSharper.MailAPI
+*.user
