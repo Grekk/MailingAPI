@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MailAPI.MailService" CodeBehind="MailService.svc.cs" %>
