@@ -7,3 +7,4 @@ _ReSharper.MailAPI
 TestResults
 /src/MailAPI/_ReSharper.MailAPI
 *.user
+*.suo
